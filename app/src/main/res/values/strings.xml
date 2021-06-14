@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assessment app</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Instructions">"Instructions:\n\n1. Hold the barcode within the box.\n2. After taking one barcode, click on the active area to take another one."
+    </string>
+
+</resources>
